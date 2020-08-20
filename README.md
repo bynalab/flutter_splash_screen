@@ -1,6 +1,6 @@
 ## **Flutter Splash Screen**
 
-**pubspec.yaml **
+pubspec.yaml 
 
 **dependencies:**
 
