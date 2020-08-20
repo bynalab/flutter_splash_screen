@@ -32,7 +32,7 @@ class _SplashScreen extends State<SplashScreen> {
         Container(
             decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage("assets/img/6.png"), //Background image
+            image: AssetImage("assets/img/6.png"), //Background image path
             fit: BoxFit.cover,
           ),
         )),
@@ -53,7 +53,7 @@ class _SplashScreen extends State<SplashScreen> {
                   ),
                 ),
                 Text(
-                  '(You're Welcome)',
+                  '(You\'re Welcome)',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 20.0,
