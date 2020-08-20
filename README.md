@@ -1,11 +1,12 @@
-# flutter_splash_screen
-Flutter Splash Screen
+## **Flutter Splash Screen**
 
-pubspec.yaml 
+**pubspec.yaml **
 
-dependencies:
-  shimmer: ^1.1.1
+**dependencies:**
+
+	shimmer: ^1.1.1
   
-assets:
-  - assets/img/bg.jpg //Image path for background image
+**assets:**
+
+	  - assets/img/bg.jpg //Image path for background image
   
